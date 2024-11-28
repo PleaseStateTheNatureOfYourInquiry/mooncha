@@ -20,5 +20,5 @@ Tea has been praised for these characteristics for millennia.
 Together with the cultural value of tea world wide this make it worth studying the potential for growing and cultivating Camellia Sinensis
 (both the Sinensis and the Assamica variety) on the Moon.
  
- 
-![alt text](./docs/images/mooncha.png "Title")
+
+![alt text](./docs/images/mooncha.png)
