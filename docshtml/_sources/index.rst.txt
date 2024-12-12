@@ -19,4 +19,6 @@ It is work in progress!
 .. toctree::
    :hidden:
 
-   workbook 
+   rational
+   reportzero
+   references 
