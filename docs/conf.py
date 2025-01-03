@@ -36,6 +36,7 @@ release = '0.1'
 # ones.
 extensions = [
     'sphinx_rtd_theme',
+    'sphinxcontrib.youtube',
     'sphinx.ext.autodoc'
 ]
 
@@ -85,3 +86,4 @@ html_static_path = ['_static']
 html_css_files = ['css/custom.css']
 
 html_last_updated_fmt = '%b %d, %Y, %X'
+html_title = "MoonCha"

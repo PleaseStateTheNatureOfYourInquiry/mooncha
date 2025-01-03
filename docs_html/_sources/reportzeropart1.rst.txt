@@ -1,4 +1,5 @@
 
+.. _experimentzeropart1:
 
 The Zeroth experiment - Part 1
 ==============================
@@ -764,9 +765,8 @@ Part II: Further Experiments
 ----------------------------
 
 
-In the last months of 2021 and first of 2022 I experimented further with new plants, aquaponics, and wicks to *automatically* water plants.
-I have not formally written a report yet. 
-All the images can be found at `Part 2 <https://drive.google.com/drive/folders/1rQ6dYZY2zxgOY4Qz9wU_62YUUZOxbwom?usp=sharing>`_.
+In the first half of 2022 I experimented further with new plants, aquaponics, and wicks to *automatically* water plants.
+I did not do any measurements, only qualitative observations. See :ref:`The Zeroth experiment - Part 2 <experimentzeropart2>`.
 
 
 

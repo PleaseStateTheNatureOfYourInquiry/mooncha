@@ -1,5 +1,5 @@
 
-
+.. _experimentzeropart2:
 
 The Zeroth experiment - Part 2
 ==============================
@@ -15,7 +15,43 @@ Photos can be found on the corresponding `Google Drive folder <https://drive.goo
 16 November 2021
 -----------------
 
-`Photos <https://drive.google.com/drive/folders/17vK3uY2-2CJeADC1zaWF43PUVKVZR5aS?usp=sharing>`__.
+`Photos on GoogleDrive <https://drive.google.com/drive/folders/17vK3uY2-2CJeADC1zaWF43PUVKVZR5aS?usp=sharing>`__.
+
+.. image:: ./photosreportzeropart2/20211116/01_testing_water_wicks.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/02_nutrition_mix_powders.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/03_nutrition_mix_fluid_10liters.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/04_Shichi_plant_with_roots.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/05_hatchi_plant_with_roots.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/07_wicks_in_pot.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/08_wicks_under_pot.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/09_shichi_and_hatchi_plants_in_pot.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/10_shichi_and_hatchi_plants_in_pot.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/11_brown_edge_leaf_1_off.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/12_brown_edge_leaf_2_on_plant.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/13_brown_edge_leaf_2_off.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/14_six_plants_in_normal_soil.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/15_six_plants_in_normal_soil.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/16_Shichi_and_Hachi_plants.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/17_setup.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211116/18_setup.jpg
+   :scale: 5%
+
 
 I carried (on the plane) eight new plants from Portugal to the Netherlands on Monday 1 November 2021.
 Until today the plants have been at the balcony in Haarlem, catching fresh air (temperatures between 5˚C and 15˚C) and humidity.
@@ -51,7 +87,42 @@ I also cut off the two leaves that show a brown edge (see photos).
 5 December 2021
 ---------------
 
-`Photos <https://drive.google.com/drive/folders/1udKhSJZBPWq_WMVOrwouJBXR11-rDFAD?usp=sharing>`__.
+`Photos on GoogleDrive <https://drive.google.com/drive/folders/1udKhSJZBPWq_WMVOrwouJBXR11-rDFAD?usp=sharing>`__.
+
+.. image:: ./photosreportzeropart2/20211205/01_roots_of_Shichi_and_Hachi_plants.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/02_Shishi_plant_with_roots.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/03_Hachi_plant_with_roots.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/04_pot_with_pebbles_after_plants_removed_-_point_to_wet_pebbles.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/05_80_of_top_pebbles_from_pot.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/06_bottom_of_pot_with_wet_wicks_and_wet_pebbles.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/07_smashing_pebbles_with_hammer_under_cloth.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/08_putting_back_Shishi_and_Hatchi_plants.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/09_adding_olla.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/10_pebble_mix_different_sizes.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/11_olla_and_plants_with_mixed_size_pebbles.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/12_top_layer_larger_pebbles.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/13_Shichi_and_Hatchi_in_front_of_window.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/14_window_set_up.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/15_other_plants_in_front_of_window.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/16_Hatchi_leaf_with_brown_edge.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20211205/17_Hatchi_leaf_with_brown_edge_removed.jpg
+   :scale: 5%
 
 The plants have been left to adapt for almost three weeks now.
 Paul Knops and I take care of them by spraying water dalily, except on the weekends
@@ -79,7 +150,41 @@ They are pricey though, I might need to find some funding.
 4 / 5 January 2022
 ------------------
 
-`Photos <https://drive.google.com/drive/folders/15LWrgUvgoM-J8r-IVTiLrfD5YVI1h66X?usp=sharing>`__.
+`Photos on GoogleDrive <https://drive.google.com/drive/folders/15LWrgUvgoM-J8r-IVTiLrfD5YVI1h66X?usp=sharing>`__.
+
+.. image:: ./photosreportzeropart2/20220104-05/01_Aquarium_side.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/02_Aquarium_top.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/03_Aquarium_WaterFlow_Pump_without_FIlter_Sponge.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/04_Air_Pump.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/05_Large_Plastic_Pot_with_Connection_to_Rod.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/06_Rod_wth_Tiny_Water_Holes.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/07_Pot_Connected.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/08_Water_Flowing_through_Pot.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/09_Full_Setup.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/10_Stomp_Growing_00_(20211207).jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/11_Stomp_Growing_01.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/12_Stomp_Growing_02.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/13_Shishi_Leaves_with_Brown_Edges.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/14_Hachi_Leaves_with_Brown_Edges.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/15_Holes_in_Hachi_Leaves.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220104-05/16_Plants_in_Earth_Pot.jpg
+   :scale: 5%
+
 
 Paul Knops has been treating well of the plants.
 They are all in good shape.
@@ -95,7 +200,8 @@ I plan to move it to the pot close to the window and see what happens. It is rat
 
 Paul also found a 6 liter tank (01 Aquarium side, 02 Aquarium top).
 He tested to make sure it is watertight. I decided to use it to set up a small aquaponics system, with one or perhaps two plants.
-I got an airpump (04 Air Pump and SuperFish Airflow 1) and also a simple water filter system (03 Aquarium WaterFlow Pump without FIlter Sponge and https://www.amazon.co.uk/Superfish-Internal-Filters-Aqua-Filter/dp/B003ZGAI12).
+I got an airpump (04 Air Pump and SuperFish Airflow 1) and also a simple water filter system
+(03 Aquarium WaterFlow Pump without Filter Sponge and `link <https://www.amazon.co.uk/Superfish-Internal-Filters-Aqua-Filter/dp/B003ZGAI12>`_).
 I use the pump of this system (not the filter sponge, which I simply take out from the filter container) to pump water from the tank through the plant pot. The tank has two holes in the side: one is taped off.
 The other hole I use to create a connection through where I can pump the aquarium water to the plant pot.
 I cannot raise the tube too high, as the pump is rather weak.
@@ -106,7 +212,7 @@ I will put a timer and perhaps have the filter run for one hour per day, in the 
 The tank holds about 5.1 liter of water  (2.4dm x 1.65dm x 1.3dm). I use tap water that I filtered through a Brita filter.
 This lowers the pH from about 8.7 to about 7. I place the tank near the window and the water temperature is 15˚C. 
 
-I add 5ml of Tetra Safe Start (https://www.petsplace.nl/tetra-aqua-safestart-waterverbeteraars-m-4004218161146-pps) to prepare the water to receive fish.
+I add 5ml of `Tetra Safe Start <https://www.petsplace.nl/tetra-aqua-safestart-waterverbeteraars-m-4004218161146-pps>`_) to prepare the water to receive fish.
 I also added three small plants. Since the water temperature is quite low, I will need to work with gold fish. I think two or three is maximum.
 
 
@@ -114,9 +220,52 @@ I also added three small plants. Since the water temperature is quite low, I wil
 27 March 2022
 -------------
 
-`Photos <https://drive.google.com/drive/folders/1mACSXmb4PqXuRrqKB6OnP2HJwxNZTakp?usp=drive_link>`__.
+`Photos on GoogleDrive <https://drive.google.com/drive/folders/1mACSXmb4PqXuRrqKB6OnP2HJwxNZTakp?usp=drive_link>`__.
+
+
+.. image:: ./photosreportzeropart2/20220327/20220114_Ju_plant_and_roots.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220114_Ju_roots.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220114_Ku_and_Ju_aquaponics_pot_01.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220114_Ku_and_Ju_aquaponics_pot_02.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220114_Ku_and_Ju_aquaponics_pot_03.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220114_Ku_and_Ju_aquaponics_pot_04.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220114_Ku_and_Ju_aquaponics_pot_05.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220114_Ku_plant_and_roots.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220114_Ku_roots.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220118_Ku_and_Ju_aquaponics_pot_01.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220118_Ku_and_Ju_aquaponics_pot_02.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220118_annotated_setup_base.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220118_aquarium.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220118_aquarium_temperature.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220120_fluffy_food_rests_01.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220120_fluffy_food_rests_02.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220327/20220120_pH_of_water.jpg
+   :scale: 5%
+
 
 There are now three set-ups: aquaponics, hydroponics with water wicks and normal soil with water wicks. All setups have been steady for two months now. 
+Here is a video of the setup taken in January:
+
+.. youtube:: BdVfytD_yBk
+
+|
+
 
 The normal soil setup has the plants which seem to be the dyest, with falling leaves.
 Though at this stage, a strong apical growing can be seen at most plants. 
@@ -134,14 +283,37 @@ After removing most of them, these did not come back, perhaps also because we de
 
 All plants show signs of apical and lateral sprouting.
 
-See pictures an videos from mid January in the  20220327 images  folder.
-
-
 
 2 May 2022
 ----------
 
-`Photos <https://drive.google.com/drive/folders/1diQDlJJ4rFLqxePmI43gaN38oW1XdEsY?usp=sharing>`__.
+`Photos on GoogleDrive <https://drive.google.com/drive/folders/1diQDlJJ4rFLqxePmI43gaN38oW1XdEsY?usp=sharing>`__.
+
+.. image:: ./photosreportzeropart2/20220502/20220502_Ju_roots_01.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220502/20220502_Ju_roots_02.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220502/20220502_Ku_and_Ju_in_pot.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220502/20220502_Ku_roots.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220502/20220502_Shishi_Hatchi_in_pot.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220502/20220502_aquarium_front.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220502/20220502_aquarium_side_and_snails_01.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220502/20220502_aquarium_side_and_snails_02.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220502/20220502_aquarium_water_01.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220502/20220502_in_normal_earth.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220502/20220509_all_in_one_pot.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220502/20220509_amazing_new_plant_from_first_part.jpg
+   :scale: 5%
+
 
 I have decided to stop the experiment at this point.
 The reference plants in the normal soil have had too much stress and all plants are too much dried out, except for the plants in the aquaponics!
@@ -165,7 +337,15 @@ Amazing.
 14 June 2022
 ------------
 
-`Photos <https://drive.google.com/drive/folders/1HbKM_VqSRdMTfVyGg87Ldwyv4zjsrNK8?usp=sharing>`__.
+`Photos on GoogleDrive <https://drive.google.com/drive/folders/1HbKM_VqSRdMTfVyGg87Ldwyv4zjsrNK8?usp=sharing>`__.
+
+.. image:: ./photosreportzeropart2/20220614/20220614_new_Ju_plants_01.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220614/20220614_new_Ju_plants_02.jpg
+   :scale: 5%
+.. image:: ./photosreportzeropart2/20220614/20220614_new_plant.jpg
+   :scale: 5%
+
 
 The plants have been in the large pot for six weeks now.
 All leaves have dried and fallen off, probably too much stress on the plants from changing them around.
@@ -174,6 +354,9 @@ Also, two larger new plants are growing, from the roots of old plants up (202206
 and two tiny ones from the Ju roots (20220614 new Ju plants 01 and 02).
 
 Most interestingly, the leaves do not at all show the brown edges problem that all the other plants had!
+
+
+
 
 
 
