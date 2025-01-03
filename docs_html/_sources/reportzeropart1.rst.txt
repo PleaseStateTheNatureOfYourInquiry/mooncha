@@ -1,16 +1,7 @@
 
 
-The Zeroth experiment 
-=====================
-
-.. COMMENTED OUT
-
-    Go to :ref:`last point of work <lastPointOfWork>`.
-    
-    .. image:: ./images/construction.png
-        :scale: 50%
-
-
+The Zeroth experiment - Part 1
+==============================
 
 
 Code and Data

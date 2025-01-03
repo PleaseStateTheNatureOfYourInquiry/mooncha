@@ -20,5 +20,7 @@ It is work in progress!
    :hidden:
 
    rational
-   reportzero
+   reportzeropart1
+   reportzeropart2
+   plans
    references 
